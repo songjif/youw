@@ -1,0 +1,108 @@
+!SESSION 2017-03-20 15:51:18.347 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -login -application com.aptana.commandline.launcher.LauncherApplication D:\sjf\优问\css\.css
+Command-line arguments:  -os win32 -ws win32 -arch x86 -login -data   -application com.aptana.commandline.launcher.LauncherApplication D:\sjf\优问\css\.css
+
+!ENTRY com.aptana.core 1 0 2017-03-20 15:51:20.485
+!MESSAGE (Build null) [INFO]  ide start check begin
+
+!ENTRY com.aptana.rcp 4 0 2017-03-20 15:51:20.625
+!MESSAGE (Build null) [ERROR]  getRawLocationURI: file:/D:/sjf/优问/css
+
+!ENTRY com.aptana.rcp 4 0 2017-03-20 15:51:20.656
+!MESSAGE (Build null) [ERROR]  checkInstanceLocation
+
+!ENTRY com.pandora.core.utils 4 0 2017-03-20 15:51:20.765
+!MESSAGE (Build null) [ERROR]  remote-debugging-port == 9222
+
+!ENTRY com.aptana.rcp 4 0 2017-03-20 15:51:20.859
+!MESSAGE (Build null) [ERROR]  init CEF
+
+!ENTRY org.eclipse.ui 2 0 2017-03-20 15:51:21.233
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2017-03-20 15:51:21.233
+!MESSAGE Could not parse key sequence: plug-in='com.pandora.ui', id='org.eclipse.ui.edit.text.contentAssist.proposals', keySequence='Ctrl+Sapce'
+
+!ENTRY org.eclipse.ui 4 4 2017-03-20 15:51:23.449
+!MESSAGE Unable to create menu item "org.eclipse.ui.cheatsheets.actions.CheatSheetHelpMenuAction", command "org.eclipse.ui.cheatsheets.actions.CheatSheetHelpMenuAction" not defined
+
+!ENTRY org.eclipse.ui 4 4 2017-03-20 15:51:27.661
+!MESSAGE Plug-in 'org.eclipse.mylyn.context.ui' contributed an invalid Menu Extension (Path: 'navigate' is invalid): org.eclipse.mylyn.context.ui.actions.open.context.dialog
+
+!ENTRY org.eclipse.ui 4 4 2017-03-20 15:51:27.676
+!MESSAGE Plug-in 'org.eclipse.mylyn.tasks.ui' contributed an invalid Menu Extension (Path: 'navigate' is invalid): org.eclipse.mylyn.tasks.ui.deactivateAllTasks
+
+!ENTRY org.eclipse.ui 4 4 2017-03-20 15:51:27.676
+!MESSAGE Plug-in 'org.eclipse.mylyn.tasks.ui' contributed an invalid Menu Extension (Path: 'navigate' is invalid): org.eclipse.mylyn.tasks.ui.switchTask
+
+!ENTRY org.eclipse.ui 4 4 2017-03-20 15:51:27.676
+!MESSAGE Plug-in 'org.eclipse.mylyn.tasks.ui' contributed an invalid Menu Extension (Path: 'navigate' is invalid): org.eclipse.mylyn.tasks.ui.openTask
+
+!ENTRY com.aptana.scripting 4 0 2017-03-20 15:51:27.941
+!MESSAGE (Build null) [ERROR]  An error occurred while parsing scope 'Build–in constant' : Cannot recover from the syntax error
+
+!ENTRY com.aptana.scripting 4 0 2017-03-20 15:51:27.941
+!MESSAGE (Build null) [ERROR]  An error occurred while parsing scope 'library class/type' : Cannot recover from the syntax error
+
+!ENTRY com.aptana.rcp 4 0 2017-03-20 15:51:34.108
+!MESSAGE (Build null) [ERROR]  ---------------------start check----------------------
+
+!ENTRY com.aptana.rcp 4 0 2017-03-20 15:51:34.108
+!MESSAGE check mode
+!SESSION 2017-03-20 19:10:20.151 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -login -application com.aptana.commandline.launcher.LauncherApplication C:\Users\Administrator\Desktop\优问\css\style1.css
+Command-line arguments:  -os win32 -ws win32 -arch x86 -login -data   -application com.aptana.commandline.launcher.LauncherApplication C:\Users\Administrator\Desktop\优问\css\style1.css
+
+!ENTRY com.aptana.core 1 0 2017-03-20 19:10:22.278
+!MESSAGE (Build null) [INFO]  ide start check begin
+
+!ENTRY com.aptana.rcp 4 0 2017-03-20 19:10:22.427
+!MESSAGE (Build null) [ERROR]  getRawLocationURI: file:/C:/Users/Administrator/Desktop/优问/css
+
+!ENTRY com.aptana.rcp 4 0 2017-03-20 19:10:22.443
+!MESSAGE (Build null) [ERROR]  checkInstanceLocation
+
+!ENTRY com.pandora.core.utils 4 0 2017-03-20 19:10:22.478
+!MESSAGE (Build null) [ERROR]  remote-debugging-port == 9222
+
+!ENTRY com.aptana.rcp 4 0 2017-03-20 19:10:22.559
+!MESSAGE (Build null) [ERROR]  init CEF
+
+!ENTRY org.eclipse.ui 2 0 2017-03-20 19:10:22.835
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2017-03-20 19:10:22.835
+!MESSAGE Could not parse key sequence: plug-in='com.pandora.ui', id='org.eclipse.ui.edit.text.contentAssist.proposals', keySequence='Ctrl+Sapce'
+
+!ENTRY org.eclipse.ui 4 4 2017-03-20 19:10:24.485
+!MESSAGE Unable to create menu item "org.eclipse.ui.cheatsheets.actions.CheatSheetHelpMenuAction", command "org.eclipse.ui.cheatsheets.actions.CheatSheetHelpMenuAction" not defined
+
+!ENTRY org.eclipse.ui 4 4 2017-03-20 19:10:28.900
+!MESSAGE Plug-in 'org.eclipse.mylyn.context.ui' contributed an invalid Menu Extension (Path: 'navigate' is invalid): org.eclipse.mylyn.context.ui.actions.open.context.dialog
+
+!ENTRY org.eclipse.ui 4 4 2017-03-20 19:10:28.906
+!MESSAGE Plug-in 'org.eclipse.mylyn.tasks.ui' contributed an invalid Menu Extension (Path: 'navigate' is invalid): org.eclipse.mylyn.tasks.ui.deactivateAllTasks
+
+!ENTRY org.eclipse.ui 4 4 2017-03-20 19:10:28.908
+!MESSAGE Plug-in 'org.eclipse.mylyn.tasks.ui' contributed an invalid Menu Extension (Path: 'navigate' is invalid): org.eclipse.mylyn.tasks.ui.switchTask
+
+!ENTRY org.eclipse.ui 4 4 2017-03-20 19:10:28.909
+!MESSAGE Plug-in 'org.eclipse.mylyn.tasks.ui' contributed an invalid Menu Extension (Path: 'navigate' is invalid): org.eclipse.mylyn.tasks.ui.openTask
+
+!ENTRY com.aptana.scripting 4 0 2017-03-20 19:10:29.269
+!MESSAGE (Build null) [ERROR]  An error occurred while parsing scope 'Build–in constant' : Cannot recover from the syntax error
+
+!ENTRY com.aptana.scripting 4 0 2017-03-20 19:10:29.273
+!MESSAGE (Build null) [ERROR]  An error occurred while parsing scope 'library class/type' : Cannot recover from the syntax error
+
+!ENTRY com.aptana.rcp 4 0 2017-03-20 19:10:30.844
+!MESSAGE (Build null) [ERROR]  ---------------------start check----------------------
+
+!ENTRY com.aptana.rcp 4 0 2017-03-20 19:10:30.847
+!MESSAGE check mode
